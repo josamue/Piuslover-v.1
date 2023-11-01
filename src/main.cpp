@@ -21,8 +21,8 @@ void loop()
 {
   // showDistances();
   // delay(2000);
-  Serial.println("Right_Clear: ");
-  Serial.println(right_clear);
+  //Serial.println("Right_Clear: ");
+  //Serial.println(right_clear);
 
   check_surroundings();
   // check_color();
